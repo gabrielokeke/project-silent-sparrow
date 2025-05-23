@@ -32,7 +32,7 @@ const NewsFeed = () => {
   useEffect(() => {
     if (tab === "bbc") {
       setLoadingBbc(true);
-      fetch("/api/news?snapshot_id=s_mav325whx69073hfi")
+      fetch("https://bright-data-6o8p.onrender.com/api/news?snapshot_id=s_mav325whx69073hfi")
         .then(res => res.json())
         .then(data => {
           const articles = Array.isArray(data)
