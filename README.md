@@ -24,7 +24,7 @@ A sleek, responsive real-time dashboard delivering the **latest sports and anime
  🌈 Local Setup
 
 1. Clone the repo:
-   git clone https://github.com/yourusername/silent-sparrow.git
+   git clone https://github.com/gabrielokeke/project-silent-sparrow.git
    cd silent-sparrow
 
 2. Install dependencies
