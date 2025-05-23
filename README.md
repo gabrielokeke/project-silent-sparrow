@@ -1,6 +1,6 @@
 📰 Live Sports & Anime News Dashboard
 
-A sleek, responsive real-time dashboard delivering the **latest sports and anime headlines** using **Bright Data’s Web Unlocker and Scraper API**. Built with ❤️ using HTML, CSS, and JavaScript (or React).
+A sleek, responsive real-time dashboard delivering the **latest sports and anime headlines** using **Bright Data’s Web Unlocker and Scraper API**. Built using a hint of CSS and React.
 
  🚀 Features
 
